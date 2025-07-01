@@ -1,6 +1,5 @@
-![Droady (1)](https://github.com/user-attachments/assets/7c12fa90-0ccc-4aa5-b4d7-ad8b52584b63)
-
 # 🏃‍♀️ DROADY — *Hope-Driven AI Fitness Platform*
+![Droady (1)](https://github.com/user-attachments/assets/699ca30e-d6c5-4614-8382-3f7f146f3203)
 
 > “Give people a glimpse of who they **could** become, and they’ll keep swimming.”
 
