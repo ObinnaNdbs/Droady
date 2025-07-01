@@ -1,0 +1,11 @@
+Copyright © 2025 Obinna Ndubuisi
+
+All rights reserved.
+
+This repository and its contents (code, prompts, workflows, documentation, and media) are provided for informational and educational purposes only. 
+
+You may not copy, reproduce, distribute, modify, publish, license, create derivative works from, or use any part of this project for commercial purposes without express written permission from the author.
+
+This repository does not grant any right or license under any patents, trademarks, copyrights, or other intellectual property rights.
+
+Use at your own risk. No warranty or liability is provided.
