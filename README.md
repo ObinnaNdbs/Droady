@@ -108,6 +108,12 @@ DROADY/
 
 ---
 
+## 🚧 Early Draft
+
+![image](https://github.com/user-attachments/assets/95893838-6d98-4566-9854-0f5a3031f05d)
+
+---
+
 ## 🔐 Privacy & Licensing
 
 - **User Data**: Stored in Supabase with strict **Row-Level Security (RLS)**.
