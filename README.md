@@ -116,18 +116,6 @@ DROADY/
 
 ---
 
-## 🚧 Roadmap (Public Milestones)
-
-- [ ] Add `README.md` to each agency folder with redacted screenshots and early flows  
-- [ ] Draft & apply **custom LICENSE.txt**  
-- [ ] Publish high-level **architecture diagram** to `docs/architecture/`  
-- [ ] Begin alpha testing of **intake → generation → report** with real users  
-- [ ] Build & integrate long-term memory agent for evolving personalized coaching
-
-> Internal roadmap is tracked privately (model training, feedback loop tuning, voice agent optimization, etc.)
-
----
-
 ## 🤝 Contributors & Contact
 
 **Primary contact:**  
